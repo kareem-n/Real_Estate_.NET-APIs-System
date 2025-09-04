@@ -1,1 +1,3 @@
-# Real-Estate-.NET-APIs-System-
+# Real-Estate-.NET-APIs-System
+
+## CQRS - fleunt validations with early validate - specification patters - Repo Pattern - UOW with Lazy Load pattern - JWT Auth  
